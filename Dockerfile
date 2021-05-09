@@ -1,4 +1,4 @@
-FROM alpine:3.9@sha256:414e0518bb9228d35e4cd5165567fb91d26c6a214e9c95899e1e056fcd349011
+FROM alpine:3.13@sha256:69e70a79f2d41ab5d637de98c1e0b055206ba40a8145e7bddb55ccc04e13cf8f
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
